@@ -10,6 +10,11 @@ add_executable(act-feb-12-remove-duplicates
         act-feb-12-remove-duplicates/res.h
 )
 
-add_executable(a01708119_Act1-1
-        a01708119_Act1-1/main.cpp
+add_executable(a01708119_Act1.1
+        a01708119_Act1.1/main.cpp
+        a01708119_Act1.1/dnc.h
+)
+
+add_executable(a01708119_Act1.2
+        a01708119_Act1.2/main.cpp
 )
