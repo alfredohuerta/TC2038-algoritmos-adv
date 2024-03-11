@@ -26,3 +26,8 @@ add_executable(a01708119_Act1.3
         a01708119_Act1.3/backtracking.h
         a01708119_Act1.3/branch&Bound.h
 )
+
+add_executable(a01708119_Act2.1
+        a01708119_Act2.1/main.cpp
+        a01708119_Act2.1/hash.h
+)
